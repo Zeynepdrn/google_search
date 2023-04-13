@@ -1,0 +1,44 @@
+.container {
+    width: 90%;
+    margin: auto;
+    margin-right: 30px;
+}
+
+.box1 {
+    float:left;
+    width: 38%;
+    background-color: #7EE5DA;
+    margin: 0px 0.1%;
+    text-align: center;
+    padding: 13px 0;
+}
+
+.box2 {
+    float: left;
+    width: 18%;
+    background-color: #70CCC2;
+    font-size: 13.3px;
+    margin: 0px 0.1%;
+    text-align: center;
+    padding: 8.6px 0;
+}
+
+.box3 {
+    float: left;
+    width: 38%;
+    background-color: #62B3AA;
+    margin: 0px 0.1%;
+    text-align: center;
+    padding: 1px 0;
+}
+
+.box4 {
+    background-color: #EEEEEE;
+    text-align: center;
+    width: 94.5%;
+    margin: 0.2% 0;
+}
+
+.clear {
+    clear: both;
+}
